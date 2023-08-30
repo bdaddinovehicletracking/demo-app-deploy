@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/bdaddinovehicletracking/demo-app
-  newTag: 5fcce1bdea932086f2eff1902883803b692d0411
+  newTag: 1a4fae9c5ed384a433c1609c996587e6bee2cba9
